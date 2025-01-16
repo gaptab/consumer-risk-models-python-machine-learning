@@ -1,0 +1,7 @@
+
+    Model Risk Management Guidelines:
+    1. Define clear roles for model development, validation, and usage.
+    2. Ensure interpretability and explainability of machine learning models.
+    3. Validate models against regulatory and business standards.
+    4. Periodically monitor and recalibrate models to maintain performance.
+    
